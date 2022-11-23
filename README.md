@@ -1,2 +1,2 @@
-# OOP - Designing Bank Accounts (Java)
-This is small class project to parse a bank's clients' data, store them in relative classes, and ensure back-end account management. 
+# OOP - Designing Bank Accounts
+This is small class project parses a bank's clients' data, store them in relative classes, and ensure back-end account management. 
